@@ -7,7 +7,7 @@ This is a `Chinese tutorial` which is translated from [DeepLearning 0.1 document
 
 
 
-这是一个翻译自[深度学习0.1文档](http://deeplearning.net/tutorial/contents.html)的`中文教程`。在这个教程里面所有的算法和模型都是通过Pyhton和[Theano](http://deeplearning.net/software/theano/index.html)实现的。Theano是一个著名的第三方库，允许程序员使用GPU或者CPU去运行他的Python代码。
+这是一个翻译自[深度学习0.1文档](http://deeplearning.net/tutorial/contents.html)的`中文教程`。在这个教程里面所有的算法和模型都是通过Python和[Theano](http://deeplearning.net/software/theano/index.html)实现的。Theano是一个著名的第三方库，允许程序员使用GPU或者CPU去运行他的Python代码。
 
 
 
